@@ -1,0 +1,8 @@
+viam-sdk
+numpy<2
+torch==2.2.2
+transformers>=4.46,<5
+opencv-python==4.10.0.84
+pillow
+scipy
+scikit-image
